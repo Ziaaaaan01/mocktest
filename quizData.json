@@ -1,0 +1,684 @@
+{
+    "questions": [
+        {
+            "question": "1. What is the value of  in the equation ?",
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "8",
+            "correct": "b"
+        },
+        {
+            "question": "2. A ship travels 360 km in 8 hours. What is the average speed of the ship?",
+            "a": "40 km/h",
+            "b": "45 km/h",
+            "c": "50 km/h",
+            "d": "55 km/h",
+            "correct": "c"
+        },
+        {
+            "question": "3. What is the value of ?",
+            "a": "16",
+            "b": "25",
+            "c": "32",
+            "d": "64",
+            "correct": "c"
+        },
+        {
+            "question": "4. Simplify:",
+            "a": " ",
+            "b": " ",
+            "c": " ",
+            "d": " ",
+            "correct": "a"
+        },
+        {
+            "question": "5. If the radius of a circle is 7 cm, what is its area?",
+            "a": "49π cm²",
+            "b": "14π cm²",
+            "c": "7π cm²",
+            "d": "21π cm²",
+            "correct": "a"
+        },
+        {
+            "question": "6. Solve for :",
+            "a": "9",
+            "b": "8",
+            "c": "-9",
+            "d": "Both a and c",
+            "correct": "d"
+        },
+        {
+            "question": "7. What is the derivative of ?",
+            "a": " ",
+            "b": " ",
+            "c": " ",
+            "d": " ",
+            "correct": "a"
+        },
+        {
+            "question": "8. A right triangle has legs of lengths 3 cm and 4 cm. What is the length of the hypotenuse?",
+            "a": "5 cm",
+            "b": "6 cm",
+            "c": "7 cm",
+            "d": "8 cm",
+            "correct": "a"
+        },
+        {
+            "question": "9. What is the slope of a line that passes through the points (1, 2) and (3, 6)?",
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+            "correct": "b"
+        },
+        {
+            "question": "10. The sum of two numbers is 18, and their product is 72. What are the numbers?",
+            "a": "8 and 10",
+            "b": "6 and 12",
+            "c": "9 and 9",
+            "d": "4 and 14",
+            "correct": "b"
+        },
+        {
+            "question": "11. Choose the sentence with correct grammar.",
+            "a": "She don’t like reading books.",
+            "b": "She doesn’t likes reading books.",
+            "c": "She doesn’t like reading books.",
+            "d": "She don’t likes reading books.",
+            "correct": "c"
+        },
+        {
+            "question": "12. Which word is closest in meaning to exemplary?",
+            "a": "Disappointing",
+            "b": "Outstanding",
+            "c": "Mediocre",
+            "d": "Average",
+            "correct": "b"
+        },
+        {
+            "question": "13. Identify the antonym of generous.",
+            "a": "Selfish",
+            "b": "Kind",
+            "c": "Considerate",
+            "d": "Gracious",
+            "correct": "a"
+        },
+        {
+            "question": "14. Which of the following is a complete sentence?",
+            "a": "Although I finished my homework.",
+            "b": "Running fast on the track.",
+            "c": "I went to the store after work.",
+            "d": "Because the weather was nice.",
+            "correct": "c"
+        },
+        {
+            "question": "15. Fill in the blank: The sailors were excited to see the __ of the ship.",
+            "a": "Bow",
+            "b": "Stern",
+            "c": "Port",
+            "d": "Starboard",
+            "correct": "a"
+        },
+        {
+            "question": "16. Choose the sentence with proper punctuation.",
+            "a": "The captain ordered “Prepare to dock immediately.”",
+            "b": "The captain ordered, “Prepare to dock immediately.”",
+            "c": "The captain ordered: “Prepare to dock immediately”",
+            "d": "The captain ordered “Prepare, to dock immediately.”",
+            "correct": "b"
+        },
+        {
+            "question": "17. Which of the following sentences is correct?",
+            "a": "Me and him are going to the market.",
+            "b": "He and I are going to the market.",
+            "c": "Him and me are going to the market.",
+            "d": "I and him is going to the market.",
+            "correct": "b"
+        },
+        {
+            "question": "18. What is the best meaning of the idiom 'hit the nail on the head'?",
+            "a": "To perform a difficult task",
+            "b": "To misunderstand something",
+            "c": "To do or say something exactly right",
+            "d": "To hit an actual nail on its head",
+            "correct": "c"
+        },
+        {
+            "question": "19. Choose the word that best completes the sentence: The crew members were __ by the captain’s decision.",
+            "a": "Surprised",
+            "b": "Surprise",
+            "c": "Surprising",
+            "d": "Surprises",
+            "correct": "a"
+        },
+        {
+            "question": "20. Which word is spelled correctly?",
+            "a": "Accomodate",
+            "b": "Accommodate",
+            "c": "Acommodate",
+            "d": "Accomadate",
+            "correct": "b"
+        },
+        {
+            "question": "21. What is the largest planet in our solar system?",
+            "a": "Earth",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn",
+            "correct": "c"
+        },
+        {
+            "question": "22. What element does 'O' represent on the periodic table?",
+            "a": "Gold",
+            "b": "Oxygen",
+            "c": "Osmium",
+            "d": "Oganesson",
+            "correct": "b"
+        },
+        {
+            "question": "23. What is the main gas found in the air we breathe?",
+            "a": "Oxygen",
+            "b": "Carbon Dioxide",
+            "c": "Nitrogen",
+            "d": "Hydrogen",
+            "correct": "c"
+        },
+        {
+            "question": "24. What is the boiling point of water?",
+            "a": "100°C",
+            "b": "0°C",
+            "c": "50°C",
+            "d": "25°C",
+            "correct": "a"
+        },
+        {
+            "question": "25. Which organ is responsible for pumping blood throughout the body?",
+            "a": "Liver",
+            "b": "Lungs",
+            "c": "Heart",
+            "d": "Kidneys",
+            "correct": "c"
+        },
+        {
+            "question": "26. Who wrote the play 'Romeo and Juliet'?",
+            "a": "Charles Dickens",
+            "b": "Mark Twain",
+            "c": "William Shakespeare",
+            "d": "Jane Austen",
+            "correct": "c"
+        },
+        {
+            "question": "27. What is the capital city of France?",
+            "a": "London",
+            "b": "Berlin",
+            "c": "Madrid",
+            "d": "Paris",
+            "correct": "d"
+        },
+        {
+            "question": "28. Who painted the Mona Lisa?",
+            "a": "Vincent van Gogh",
+            "b": "Pablo Picasso",
+            "c": "Leonardo da Vinci",
+            "d": "Claude Monet",
+            "correct": "c"
+        },
+        {
+            "question": "29. In which year did the Titanic sink?",
+            "a": "1910",
+            "b": "1912",
+            "c": "1914",
+            "d": "1916",
+            "correct": "b"
+        },
+        {
+            "question": "30. What is the hardest natural substance on Earth?",
+            "a": "Gold",
+            "b": "Diamond",
+            "c": "Iron",
+            "d": "Quartz",
+            "correct": "b"
+        },
+        {
+            "question": "31. Which of the following is a primary color?",
+            "a": "Green",
+            "b": "Yellow",
+            "c": "Red",
+            "d": "Orange",
+            "correct": "c"
+        },
+        {
+            "question": "32. What is the freezing point of water?",
+            "a": "0°C",
+            "b": "32°F",
+            "c": "100°F",
+            "d": "Both a and b",
+            "correct": "d"
+        },
+        {
+            "question": "33. What is the longest river in the world?",
+            "a": "Amazon River",
+            "b": "Nile River",
+            "c": "Yangtze River",
+            "d": "Mississippi River",
+            "correct": "b"
+        },
+        {
+            "question": "34. Which planet is known as the Red Planet?",
+            "a": "Venus",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn",
+            "correct": "b"
+        },
+        {
+            "question": "35. Who was the first President of the United States?",
+            "a": "Abraham Lincoln",
+            "b": "George Washington",
+            "c": "Thomas Jefferson",
+            "d": "John Adams",
+            "correct": "b"
+        },
+        {
+            "question": "36. What is the chemical formula for water?",
+            "a": "H2O",
+            "b": "CO2",
+            "c": "O2",
+            "d": "NaCl",
+            "correct": "a"
+        },
+        {
+            "question": "37. What is the process by which plants make their food?",
+            "a": "Respiration",
+            "b": "Photosynthesis",
+            "c": "Digestion",
+            "d": "Transpiration",
+            "correct": "b"
+        },
+        {
+            "question": "38. Which gas do plants absorb from the atmosphere?",
+            "a": "Oxygen",
+            "b": "Carbon Dioxide",
+            "c": "Nitrogen",
+            "d": "Hydrogen",
+            "correct": "b"
+        },
+        {
+            "question": "39. Who is known as the 'Father of Geometry'?",
+            "a": "Pythagoras",
+            "b": "Euclid",
+            "c": "Archimedes",
+            "d": "Thales",
+            "correct": "b"
+        },
+        {
+            "question": "40. What is the smallest unit of life?",
+            "a": "Cell",
+            "b": "Tissue",
+            "c": "Organ",
+            "d": "Organism",
+            "correct": "a"
+        },
+        {
+            "question": "41. Which part of the cell contains the genetic material?",
+            "a": "Cytoplasm",
+            "b": "Cell Membrane",
+            "c": "Nucleus",
+            "d": "Ribosome",
+            "correct": "c"
+        },
+        {
+            "question": "42. Who discovered penicillin?",
+            "a": "Marie Curie",
+            "b": "Alexander Fleming",
+            "c": "Louis Pasteur",
+            "d": "Albert Einstein",
+            "correct": "b"
+        },
+        {
+            "question": "43. What is the main language spoken in Brazil?",
+            "a": "Spanish",
+            "b": "Portuguese",
+            "c": "French",
+            "d": "English",
+            "correct": "b"
+        },
+        {
+            "question": "44. What is the capital city of Japan?",
+            "a": "Tokyo",
+            "b": "Seoul",
+            "c": "Beijing",
+            "d": "Bangkok",
+            "correct": "a"
+        },
+        {
+            "question": "45. Which ocean is the largest?",
+            "a": "Atlantic Ocean",
+            "b": "Indian Ocean",
+            "c": "Arctic Ocean",
+            "d": "Pacific Ocean",
+            "correct": "d"
+        },
+        {
+            "question": "46. What is the main ingredient in guacamole?",
+            "a": "Tomato",
+            "b": "Avocado",
+            "c": "Lettuce",
+            "d": "Pepper",
+            "correct": "b"
+        },
+        {
+            "question": "47. In what year did World War II end?",
+            "a": "1945",
+            "b": "1944",
+            "c": "1943",
+            "d": "1942",
+            "correct": "a"
+        },
+        {
+            "question": "48. What is the largest mammal in the world?",
+            "a": "Elephant",
+            "b": "Blue Whale",
+            "c": "Giraffe",
+            "d": "Great White Shark",
+            "correct": "b"
+        },
+        {
+            "question": "49. Who was the first man to walk on the moon?",
+            "a": "Buzz Aldrin",
+            "b": "Neil Armstrong",
+            "c": "Yuri Gagarin",
+            "d": "Michael Collins",
+            "correct": "b"
+        },
+        {
+            "question": "50. What is the currency of Japan?",
+            "a": "Yen",
+            "b": "Won",
+            "c": "Dollar",
+            "d": "Euro",
+            "correct": "a"
+        },
+        {
+            "question": "51. What is the largest continent on Earth?",
+            "a": "Africa",
+            "b": "Asia",
+            "c": "Europe",
+            "d": "North America",
+            "correct": "b"
+        },
+        {
+            "question": "52. Which country is known as the Land of the Rising Sun?",
+            "a": "China",
+            "b": "Japan",
+            "c": "Thailand",
+            "d": "South Korea",
+            "correct": "b"
+        },
+        {
+            "question": "53. Who invented the telephone?",
+            "a": "Thomas Edison",
+            "b": "Alexander Graham Bell",
+            "c": "Nikola Tesla",
+            "d": "Henry Ford",
+            "correct": "b"
+        },
+        {
+            "question": "54. What is the capital city of Italy?",
+            "a": "Rome",
+            "b": "Milan",
+            "c": "Venice",
+            "d": "Florence",
+            "correct": "a"
+        },
+        {
+            "question": "55. What is the boiling point of water in Fahrenheit?",
+            "a": "100°F",
+            "b": "212°F",
+            "c": "32°F",
+            "d": "0°F",
+            "correct": "b"
+        },
+        {
+            "question": "56. Which planet is known for its rings?",
+            "a": "Jupiter",
+            "b": "Saturn",
+            "c": "Uranus",
+            "d": "Neptune",
+            "correct": "b"
+        },
+        {
+            "question": "57. Who wrote the national anthem of the United States?",
+            "a": "Francis Scott Key",
+            "b": "John Philip Sousa",
+            "c": "George M. Cohan",
+            "d": "Woody Guthrie",
+            "correct": "a"
+        },
+        {
+            "question": "58. What is the most spoken language in the world?",
+            "a": "English",
+            "b": "Spanish",
+            "c": "Mandarin Chinese",
+            "d": "Hindi",
+            "correct": "c"
+        },
+        {
+            "question": "59. What is the main function of the roots of a plant?",
+            "a": "Photosynthesis",
+            "b": "Absorb water and nutrients",
+            "c": "Reproduction",
+            "d": "Support",
+            "correct": "b"
+        },
+        {
+            "question": "60. In which country is the Great Pyramid of Giza located?",
+            "a": "Greece",
+            "b": "Egypt",
+            "c": "Mexico",
+            "d": "China",
+            "correct": "b"
+        },
+        {
+            "question": "61. Which is the largest internal organ in the human body?",
+            "a": "Heart",
+            "b": "Liver",
+            "c": "Lungs",
+            "d": "Kidneys",
+            "correct": "b"
+        },
+        {
+            "question": "62. What is the capital city of Australia?",
+            "a": "Sydney",
+            "b": "Melbourne",
+            "c": "Canberra",
+            "d": "Brisbane",
+            "correct": "c"
+        },
+        {
+            "question": "63. Who is known as the 'Father of Modern Physics'?",
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Niels Bohr",
+            "d": "Galileo Galilei",
+            "correct": "b"
+        },
+        {
+            "question": "64. Which organelle is known as the powerhouse of the cell?",
+            "a": "Nucleus",
+            "b": "Mitochondria",
+            "c": "Chloroplast",
+            "d": "Ribosome",
+            "correct": "b"
+        },
+        {
+            "question": "65. What is the most widely used programming language?",
+            "a": "Java",
+            "b": "Python",
+            "c": "JavaScript",
+            "d": "C++",
+            "correct": "c"
+        },
+        {
+            "question": "66. In what type of animal would you find a cloaca?",
+            "a": "Mammal",
+            "b": "Bird",
+            "c": "Reptile",
+            "d": "Both b and c",
+            "correct": "d"
+        },
+        {
+            "question": "67. What is the capital city of Canada?",
+            "a": "Toronto",
+            "b": "Ottawa",
+            "c": "Vancouver",
+            "d": "Montreal",
+            "correct": "b"
+        },
+        {
+            "question": "68. What is the main function of the skin?",
+            "a": "Protection",
+            "b": "Sensation",
+            "c": "Temperature Regulation",
+            "d": "All of the above",
+            "correct": "d"
+        },
+        {
+            "question": "69. Which vitamin is primarily obtained from sunlight?",
+            "a": "Vitamin A",
+            "b": "Vitamin B12",
+            "c": "Vitamin C",
+            "d": "Vitamin D",
+            "correct": "d"
+        },
+        {
+            "question": "70. Who is the author of the Harry Potter series?",
+            "a": "J.R.R. Tolkien",
+            "b": "J.K. Rowling",
+            "c": "C.S. Lewis",
+            "d": "Stephen King",
+            "correct": "b"
+        },
+        {
+            "question": "71. What is the largest organ in the human body?",
+            "a": "Lungs",
+            "b": "Heart",
+            "c": "Skin",
+            "d": "Liver",
+            "correct": "c"
+        },
+        {
+            "question": "72. What is the primary function of the heart?",
+            "a": "Pump blood",
+            "b": "Produce hormones",
+            "c": "Regulate temperature",
+            "d": "Store nutrients",
+            "correct": "a"
+        },
+        {
+            "question": "73. Which of the following is a greenhouse gas?",
+            "a": "Oxygen",
+            "b": "Nitrogen",
+            "c": "Carbon Dioxide",
+            "d": "Hydrogen",
+            "correct": "c"
+        },
+        {
+            "question": "74. What is the capital city of Egypt?",
+            "a": "Cairo",
+            "b": "Alexandria",
+            "c": "Giza",
+            "d": "Luxor",
+            "correct": "a"
+        },
+        {
+            "question": "75. Which element has the chemical symbol 'Na'?",
+            "a": "Sodium",
+            "b": "Nitrogen",
+            "c": "Neon",
+            "d": "Argon",
+            "correct": "a"
+        },
+        {
+            "question": "76. In which year did the first manned moon landing occur?",
+            "a": "1965",
+            "b": "1969",
+            "c": "1972",
+            "d": "1975",
+            "correct": "b"
+        },
+        {
+            "question": "77. What is the primary language spoken in Argentina?",
+            "a": "Spanish",
+            "b": "Portuguese",
+            "c": "English",
+            "d": "Italian",
+            "correct": "a"
+        },
+        {
+            "question": "78. Who painted 'The Starry Night'?",
+            "a": "Vincent van Gogh",
+            "b": "Pablo Picasso",
+            "c": "Claude Monet",
+            "d": "Edvard Munch",
+            "correct": "a"
+        },
+        {
+            "question": "79. What is the freezing point of water in Fahrenheit?",
+            "a": "0°F",
+            "b": "32°F",
+            "c": "100°F",
+            "d": "212°F",
+            "correct": "b"
+        },
+        {
+            "question": "80. Which is the largest species of shark?",
+            "a": "Great White Shark",
+            "b": "Hammerhead Shark",
+            "c": "Tiger Shark",
+            "d": "Whale Shark",
+            "correct": "d"
+        },
+        {
+            "question": "81. What is the capital of the United States?",
+            "a": "New York",
+            "b": "Washington, D.C.",
+            "c": "Los Angeles",
+            "d": "Chicago",
+            "correct": "b"
+        },
+        {
+            "question": "82. What is the main ingredient in sushi?",
+            "a": "Fish",
+            "b": "Rice",
+            "c": "Seaweed",
+            "d": "Vegetables",
+            "correct": "b"
+        },
+        {
+            "question": "83. Who wrote 'Pride and Prejudice'?",
+            "a": "Charlotte Brontë",
+            "b": "Emily Brontë",
+            "c": "Jane Austen",
+            "d": "Virginia Woolf",
+            "correct": "c"
+        },
+        {
+            "question": "84. What is the most abundant gas in the Earth's atmosphere?",
+            "a": "Oxygen",
+            "b": "Carbon Dioxide",
+            "c": "Nitrogen",
+            "d": "Argon",
+            "correct": "c"
+        },
+        {
+            "question": "85. What is the currency of the United Kingdom?",
+            "a": "Dollar",
+            "b": "Pound Sterling",
+            "c": "Euro",
+            "d": "Yen",
+            "correct": "b"
+        }
+    ]
+}
