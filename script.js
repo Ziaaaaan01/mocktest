@@ -8,7 +8,6 @@ let score = 0;
 let quizData = [];
 let userAnswers = [];
 
-// Load quiz data from JSON file
 fetch('quizData.json')
     .then(response => response.json())
     .then(data => {
@@ -50,7 +49,7 @@ function getSelected() {
 submitButton.addEventListener("click", () => {
     const answer = getSelected();
     if (answer) {
-        userAnswers[currentQuestionIndex] = answer; // Store user's answer
+        userAnswers[currentQuestionIndex] = answer;
         if (answer === quizData[currentQuestionIndex].correct) {
             score++;
         }
@@ -65,14 +64,13 @@ submitButton.addEventListener("click", () => {
     }
 });
 
-// Quit button event listener
 quitButton.addEventListener("click", () => {
     displayResults();
 });
 
 function displayResults() {
-    quiz.innerHTML = ''; // Clear the quiz area
-    resultDisplay.innerHTML = ''; // Clear previous results
+    quiz.innerHTML = ''; 
+    resultDisplay.innerHTML = '';
 
     quizData.forEach((question, index) => {
         const userAnswer = userAnswers[index];
@@ -81,7 +79,6 @@ function displayResults() {
         const questionElement = document.createElement('div');
         questionElement.innerHTML = `<strong>${question.question}</strong><br>`;
 
-        // Display user's answer and correct answer with appropriate colors
         if (userAnswer !== correctAnswer) {
             questionElement.innerHTML += `
                 <p>Your answer: <span style="color: red;">${userAnswer}</span></p>
@@ -95,6 +92,6 @@ function displayResults() {
     });
 
     resultDisplay.innerHTML += `<h2>You scored ${score} out of ${quizData.length}!</h2>`;
-    submitButton.style.display = 'none'; // Hide the submit button
-    quitButton.style.display = 'none'; // Hide the quit button
+    submitButton.style.display = 'none'; 
+    quitButton.style.display = 'none'; 
 }
